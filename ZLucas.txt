@@ -1,0 +1,1 @@
+Projeto feito para estudar como implementar um CardView, utilizando juntamente o RecyclerView e um adapter, gerando algo similar ao Instagram, existindo um tipo de Feed com postagens e a opção de curtir e comentar.
